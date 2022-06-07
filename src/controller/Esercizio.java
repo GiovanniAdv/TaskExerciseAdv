@@ -11,7 +11,7 @@ public class Esercizio {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Gantt time is: " + getGant());
+		System.out.println("The Gantt time is: " + getGant());
 
 	}
 
