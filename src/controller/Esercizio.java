@@ -22,12 +22,14 @@ public class Esercizio {
 		Task task3 = new Task(3, 4, 1);
 		Task task4 = new Task(4, 7, 3);
 		Task task5 = new Task(5, 5, 1);
+		Task task6 = new Task(6, 2, 4);
 		
 		listaTemp.add(task1);
 		listaTemp.add(task2);
 		listaTemp.add(task3);
 		listaTemp.add(task4);
 		listaTemp.add(task5);
+		listaTemp.add(task6);
 		return listaTemp;
 	}
 	
